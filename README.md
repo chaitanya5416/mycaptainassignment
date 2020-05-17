@@ -6,7 +6,7 @@ sum=0
 count=1
 while count<=n:
 	print(sum)
-    count+=1
+	count+=1
     a=b
     b=sum
     sum=a+b
